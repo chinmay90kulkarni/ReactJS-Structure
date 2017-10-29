@@ -1,0 +1,13 @@
+#hd {
+  height: 400px;
+  color: black;
+  min-height:400px;
+  background: burlywood;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
